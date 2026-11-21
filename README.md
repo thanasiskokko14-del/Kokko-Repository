@@ -1,4 +1,4 @@
-# Kokkonas-Repository
+# Example of README.md
 > dat=mtcars
 > d=dist(scale(dat))
 > hc=hclust(d, method = "ward.D2")
